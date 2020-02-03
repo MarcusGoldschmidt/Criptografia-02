@@ -26,7 +26,7 @@ preencha o último bloco com o valor 0.
 
 ⦁ Para cada bloco, realize uma operação XOR com a chave.
 
-##Saída
+## Saída
 
 Arquivo texto criptografado quando o modo escolhido foi o “C” ou
 Arquivo texto decriptografado quando o modo escolhido foi o “D”.
